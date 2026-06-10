@@ -39,12 +39,81 @@ b=20-10
 a=a-b
 b=a+b
 print(b-a)"""
-
-
-
-
-
-
+"""a=10
+b=20
+print(a+b)"""
+"""a=10
+b=20
+c=30
+print(a+b+c)"""
+"""a=100
+b=50
+print(a//b)"""
+"""print("comparison operator")
+a=20
+b=40
+print(a==b)
+print(a>b)
+print(a<=b)"""
+"""a=5
+b=10
+print(a!=b)"""
+"""a=10
+b=20
+c=30
+a=a+b
+print(a<30)"""
+"""a=20
+b=10
+print(a>=b)"""
+"""a=40
+b=20
+a+=b
+print(a)"""
+"""a=10
+b=20
+a=b
+print(a)"""
+"""a=10
+b=20
+print(a&b)"""
+"""a=10
+b=5
+print(a|b)"""
+"""a=10
+b=20
+print(a^b)"""
+"""print("bitwise operator")
+a=10
+print(a<<3)
+print(a>>2)"""
+"""print("1.swapping")
+a=10
+b=5
+a=a^b
+b=a^b
+a=a^b
+print("a=",a)
+print("b=",b)"""
+"""print("2.last two digit)
+a=12456
+b=a%100
+print(b)"""
+"""print("3.middle digit")
+a=12345
+b=a//100
+c=b%10
+print(c)"""
+"""print("4.square")
+a=34567
+b=a//100
+c=b%10
+d=c**3
+print(d)"""
+"""print("last digit")
+a=67895
+b=a%10
+print(b)"""
 
 
 

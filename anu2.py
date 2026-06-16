@@ -113,7 +113,7 @@ else:
     print("invalied booking ")"""
 """price=float(input("enter the price the laptop:"))
 if price<=50000:
-   print("discount=price*0.10")
+   print("discount=price* .10")
 elif price<=75000:
      print ("discount=price*0.15")
 else:
@@ -122,6 +122,25 @@ else:
     print("price of laptop:",price)
     print("price of discount:",discount)
     print("total price:",total_price)"""
+
+"""a=int(input("enter the late of days:"))
+if a<=5:
+    print("your charge",a*0.40,"paisa")
+elif a>=6 and a>=10:
+    print("your charge",a*0.65,"paisa")
+else:
+    print("your charge",a*0.80,"paisa")"""
+
+a=int(input("enter the number about two digit:"))
+if a%7==0 or a%10==7:
+    print("this is buzz number")
+else:
+    print("this not buzz number")
+
+          
+    
+
+
 
     
 

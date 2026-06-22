@@ -33,6 +33,19 @@ i=1
 while i<=num:
   fact=fact*i
   i+=1
-  
-print("factorial=",fact)"""
-  
+  print("factorial=",fact)"""
+"""print("loop.4 alphabets")
+for i in range(90,64,-1):
+    print(chr(i),end'=',i)"""
+"""(loop 5.reverse alphabet)
+for i in range(65,91):
+    print(chr(i),'=',i)"""
+"""print('loop.6.ascii values')
+for i in range(0,128):
+    print(chr(i),'=',i)"""
+"""print("loop 7")"""
+'''m=5
+n=10
+for i in range(n,1,-1):
+    print(m*n)'''
+   
